@@ -1,0 +1,32 @@
+    {
+        "statusPedido": "PENDENTE",
+        "nomeCliente": "nomeCliente",
+        "endereco": "Rua da ladeira",
+        "telefone": "87878798",
+        "valorTotalProdutos": 10.0,
+        "taxa": 10.0,
+        "valorTotal": 20.0,
+        "itensPedido": [
+            {
+                "descricao": "bolacha",
+                "preco": 5.0,
+                "quantidade": 2
+            }
+        ]
+    }
+        {
+        "statusPedido": "PENDENTE",
+        "nomeCliente": "Marcos Paulo",
+        "endereco": "Rua da ladeira",
+        "telefone": "6498652468",
+        "valorTotalProdutos": 10.0,
+        "taxa": 10.0,
+        "valorTotal": 20.0,
+        "itensPedido": [
+            {
+                "descricao": "bolacha",
+                "preco": 5.0,
+                "quantidade": 2
+            }
+        ]
+    }
